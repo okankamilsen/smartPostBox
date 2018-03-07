@@ -1,0 +1,4 @@
+#Fri Jan 12 13:10:18 CET 2018
+base.0=/Users/okankamilsen/Desktop/iot_project/Login_SignUp_ScreenDesgin_Demo/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
